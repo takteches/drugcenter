@@ -3739,7 +3739,7 @@
     "name": "oxymet 15ml ad drops",
     "ar-name": "اوكسيمت نقط 15 مل كبار",
     "price1": "5.25",
-    "price": "5.25 L.E",
+    "price": "7 L.E",
     "barcode": "6221094500731",
     "a-comp": "oxymetazoline hydrochloride"
   },
@@ -3748,7 +3748,7 @@
     "name": "oxymet 15ml inf nasal drops",
     "ar-name": "اوكسيمت 15مل نقط اطفال",
     "price1": "5.25",
-    "price": "5.25 L.E",
+    "price": "7 L.E",
     "barcode": "6221094500519",
     "a-comp": "oxymetazoline hydrochloride"
   },
@@ -4333,7 +4333,7 @@
     "name": "lyse 15ml nasal drop",
     "ar-name": "لايس 15مل نقط للانف",
     "price1": "5.5",
-    "price": "5.5 L.E",
+    "price": "7.50 L.E",
     "barcode": "6221094042316",
     "a-comp": "sodium chloride  0.65%+sodium bicarbonat"
   },
@@ -6898,7 +6898,7 @@
     "name": "betaderm 15g  cream",
     "ar-name": "بيتاديرم 15 جم كريم",
     "price1": "6.75",
-    "price": "6.75 L.E",
+    "price": "11.50 L.E",
     "barcode": "6221032241108",
     "a-comp": "betamethasone"
   },
@@ -12127,7 +12127,7 @@
     "name": "flurest  20 tab",
     "ar-name": "فلورست 20 قرص",
     "price1": "9",
-    "price": "9 L.E",
+    "price": "12 L.E",
     "barcode": "6221045011330",
     "a-comp": "caffeine+paracetamol+phenylpropanolamine"
   },
@@ -15853,7 +15853,7 @@
     "name": "h-formula 20g cream",
     "ar-name": "اتش-فورميلا 20جرام كريم",
     "price1": "10.5",
-    "price": "10.5 L.E",
+    "price": "13 L.E",
     "barcode": "6221094113344",
     "a-comp": "shark liver oil+phenylephrine hydrochlor"
   },
@@ -32071,7 +32071,7 @@
     "name": "iruxol 15g oint",
     "ar-name": "ايروكسول 15جرام مرهم",
     "price1": "24",
-    "price": "24 L.E",
+    "price": "40 L.E",
     "barcode": "6221068603680",
     "a-comp": "collagenase+chloramphenicol"
   },
@@ -51655,7 +51655,7 @@
     "name": "augmentin 1 g 14 tab",
     "ar-name": "اوجمنتين 1 جم 14 قرص",
     "price1": "89.75",
-    "price": "89.75 L.E",
+    "price": "99 L.E",
     "barcode": "6221508016025",
     "a-comp": "amoxicillin+clavulainic acid  1 gm"
   },
@@ -56470,7 +56470,7 @@
     "name": "lantus solostar 100iu 3ml 1 pen",
     "ar-name": "لنتوس سولو ستار 100وحدة 3مل قلم",
     "price1": "630",
-    "price": "630 L.E",
+    "price": "725 L.E",
     "barcode": "3582910017653",
     "a-comp": "insulin"
   },
