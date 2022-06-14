@@ -5692,9 +5692,9 @@
     "name": "picolax 15ml drops  laxative",
     "ar-name": "بيكولاكس 15مل ملين نقط بالفم",
     "price1": "6",
-    "price": "6 L.E",
+    "price": "11.5 L.E",
     "barcode": "6221032230157",
-    "a-comp": "sodium picosulphate"
+    "a-comp": "sodium picosulphate"R
   },
   {
     "id": "663",
@@ -25510,7 +25510,7 @@
     "name": "rowatinex   30 cap",
     "ar-name": "رواتينكس 30 كبسولة",
     "price1": "18",
-    "price": "18 L.E",
+    "price": "39 L.E",
     "barcode": "6221025005359",
     "a-comp": "anethole+borneol+camphene"
   },
@@ -46237,7 +46237,7 @@
     "name": "augmentin 625 mg 10 tab",
     "ar-name": "اوجمنتين 625 مجم 10 اقراص",
     "price1": "52.5",
-    "price": "52.5 L.E",
+    "price": "62 L.E",
     "barcode": "6221045011286",
     "a-comp": "amoxicillin  500 mg+clavulinic acid  125"
   },
