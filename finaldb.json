@@ -11038,7 +11038,7 @@
     "name": "amrizole 200mg/5ml susp 120 ml",
     "ar-name": "امريزول 200مجم/5مل معلق 12 مل",
     "price1": "8.25",
-    "price": "8.25 L.E",
+    "price": "11 L.E",
     "barcode": "6221075200018",
     "a-comp": "metronidazole  125 mg"
   },
@@ -12694,7 +12694,7 @@
     "name": "prisoline 15ml eye drops",
     "ar-name": "بريزولين 15مل قطرة عين",
     "price1": "9",
-    "price": "9 L.E",
+    "price": "11.5 L.E",
     "barcode": "6221068503133",
     "a-comp": "naphazoline+chlorpheniramine"
   },
@@ -17266,7 +17266,7 @@
     "name": "levcet 120ml syrup",
     "ar-name": "ليفست 120مل شراب",
     "price1": "11.25",
-    "price": "11.25 L.E",
+    "price": "14 L.E",
     "barcode": "6223003572235",
     "a-comp": "n/a"
   },
@@ -19561,7 +19561,7 @@
     "name": "ruta c 60mg 20 tab",
     "ar-name": "روتاسى 60مجم  20 قرص",
     "price1": "12.75",
-    "price": "12.75 L.E",
+    "price": "16 L.E",
     "barcode": "6221068000311",
     "a-comp": "rutin+vitamin c"
   },
@@ -22486,7 +22486,7 @@
     "name": "coughsed paracetamol inf  12 supp",
     "ar-name": "كافسيد بارسيتامول 12قمع للرضع",
     "price1": "15",
-    "price": "15 L.E",
+    "price": "19 L.E",
     "barcode": "6223002149322",
     "a-comp": "grindelia +paracetamol+gelsemium"
   },
@@ -25438,7 +25438,7 @@
     "name": "flatidyl  30/chew tab",
     "ar-name": "فلاتيديل 30 قرص للمضغ",
     "price1": "18",
-    "price": "18 L.E",
+    "price": "24.5 L.E",
     "barcode": "6221068000397",
     "a-comp": "aerosil+dimethylpolysiloxane"
   },
@@ -26167,7 +26167,7 @@
     "name": "coughsed-p child 12 supp",
     "ar-name": "كافسيد باراسيتامول 12 قمع للاطفال",
     "price1": "18",
-    "price": "18 L.E",
+    "price": "23 L.E",
     "barcode": "6223002149315",
     "a-comp": "gelsemium extract+paracetamol"
   },
@@ -32188,7 +32188,7 @@
     "name": "dolcyl 4 mg  30tab",
     "ar-name": "دولسيل 4مجم 30قرص",
     "price1": "24",
-    "price": "24 L.E",
+    "price": "30 L.E",
     "barcode": "6221508511223",
     "a-comp": "glimepiride"
   },
@@ -32800,7 +32800,7 @@
     "name": "omez 20mg 14tab",
     "ar-name": "اوميز 20 مجم 14 كبسولة",
     "price1": "24.5",
-    "price": "24.5 L.E",
+    "price": "30.5 L.E",
     "barcode": "6221094018861",
     "a-comp": "omeprazole"
   },
@@ -34759,10 +34759,10 @@
   },
   {
     "id": "6093",
-    "name": "virecta 6 tab",
-    "ar-name": "فايركتا 6 اقراص",
+    "name": "virecta 9 tab",
+    "ar-name": "فايركتا 9 اقراص",
     "price1": "27.5",
-    "price": "27.5 L.E",
+    "price": "51 L.E",
     "barcode": "6223002450909",
     "a-comp": "sildenafil"
   },
@@ -36004,7 +36004,7 @@
     "name": "brufen 400mg  30 tab",
     "ar-name": "بروفين 400 مجم 30 قرص",
     "price1": "29.25",
-    "price": "29.25 L.E",
+    "price": "37.5 L.E",
     "barcode": "6221068905548",
     "a-comp": "ibuprofen  400 mg"
   },
@@ -36427,7 +36427,7 @@
     "name": "allerfen 180mg 20tab",
     "ar-name": "اليرفين 180مجم 20قرص",
     "price1": "30",
-    "price": "30 L.E",
+    "price": "39 L.E",
     "barcode": "6221025031136",
     "a-comp": "fexofenadine"
   },
@@ -37720,10 +37720,10 @@
   },
   {
     "id": "845",
-    "name": "brufen  600mg  30 tab",
+    "name": "brufen 600mg  30 tab",
     "ar-name": "بروفين 600 مج 30 قرص",
     "price1": "31.5",
-    "price": "31.5 L.E",
+    "price": "40.5 L.E",
     "barcode": "6221068905623",
     "a-comp": "ibuprofen  600 mg"
   },
@@ -37867,7 +37867,7 @@
     "name": "milga 30tab",
     "ar-name": "ميلجا 30 قرص",
     "price1": "31.5",
-    "price": "31.5 L.E",
+    "price": "56 L.E",
     "barcode": "6223002453689",
     "a-comp": "vit b 6 +vit b 12"
   },
@@ -40747,7 +40747,7 @@
     "name": "royal jelly 600mg  12cap",
     "ar-name": "رويال جيلى 600 مجم 12 كبسولة",
     "price1": "36",
-    "price": "36 L.E",
+    "price": "44 L.E",
     "barcode": "6221151001621",
     "a-comp": "royal jelly  600 mg"
   },
@@ -41647,7 +41647,7 @@
     "name": "zanoglide 4/30 mg 30 tab",
     "ar-name": "زانوجليد 4/30 مجم 30 قرص",
     "price1": "39",
-    "price": "39 L.E",
+    "price": "58.5 L.E",
     "barcode": "6223002456222",
     "a-comp": "n/a"
   },
@@ -43132,7 +43132,7 @@
     "name": "lasilacton 50mg 30tab",
     "ar-name": "لازيلاكتون 50مجم 30قرص",
     "price1": "42",
-    "price": "42 L.E",
+    "price": "48 L.E",
     "barcode": "6223003991951",
     "a-comp": "n/a"
   },
@@ -44032,7 +44032,7 @@
     "name": "amaryl m 2\\500 30tab",
     "ar-name": "اماريل ام 2\\500 30قرص",
     "price1": "45",
-    "price": "45 L.E",
+    "price": "58.5 L.E",
     "barcode": "6223003991869",
     "a-comp": "glimepiride+metformin"
   },
@@ -45760,7 +45760,7 @@
     "name": "twinzol eye drops",
     "ar-name": "توينزول قطرة للعين",
     "price1": "50",
-    "price": "50 L.E",
+    "price": "57.5 L.E",
     "barcode": "6224000219307",
     "a-comp": "dorzolamide + timolol"
   },
@@ -45949,7 +45949,7 @@
     "name": "lasilactone  100 mg 30 tab",
     "ar-name": "لازيلاكتون  30 قرص  100 مجم",
     "price1": "50",
-    "price": "50 L.E",
+    "price": "72 L.E",
     "barcode": "6223003990763",
     "a-comp": "n/a"
   },
@@ -46030,7 +46030,7 @@
     "name": "brufen retard 800  20 tab",
     "ar-name": "بروفين ريتارد 800 20 قرص",
     "price1": "50.5",
-    "price": "50.5 L.E",
+    "price": "60 L.E",
     "barcode": "6221068906941",
     "a-comp": "ibuprofen"
   },
@@ -47713,7 +47713,7 @@
     "name": "conventin 300 mg 30cap",
     "ar-name": "كونفنتين 300 مجم 30 قرص",
     "price1": "60",
-    "price": "60 L.E",
+    "price": "69 L.E",
     "barcode": "6223002450169",
     "a-comp": "gabapentin 300mg"
   },
@@ -50998,7 +50998,7 @@
     "name": "conventin 400mg 30cap",
     "ar-name": "كونفينتين 400مجم 30كبسولة",
     "price1": "81",
-    "price": "81 L.E",
+    "price": "93 L.E",
     "barcode": "6223002450145",
     "a-comp": "gabapentin"
   },
@@ -52897,7 +52897,7 @@
     "name": "prontogest 200mg 30/vaginal pessaries",
     "ar-name": "برونتوجيست 200مجم 30لبوسة مهبلى",
     "price1": "109.25",
-    "price": "109.25 L.E",
+    "price": "126 L.E",
     "barcode": "6223003570460",
     "a-comp": "n/a"
   },
@@ -53086,7 +53086,7 @@
     "name": "cymbatex 30  mg 20 tab",
     "ar-name": "سيمباتكس 30 مج 20 قرص",
     "price1": "110.7",
-    "price": "110.7 L.E",
+    "price": "190.5 L.E",
     "barcode": "6223002456123",
     "a-comp": "duloxetine"
   },
@@ -54418,7 +54418,7 @@
     "name": "prontogest 400 mg vaginal supp",
     "ar-name": "برونتوجيست لبوس مهبلى 400 مجم 6شريط",
     "price1": "148",
-    "price": "148 L.E",
+    "price": "228 L.E",
     "barcode": "6223003579890",
     "a-comp": "n/a"
   },
@@ -55327,7 +55327,7 @@
     "name": "cymbatex 60 mg 30 cap",
     "ar-name": "سيمباتكس 60 مجم 30 كبسوله",
     "price1": "214.5",
-    "price": "214.5 L.E",
+    "price": "246 L.E",
     "barcode": "6223002456147",
     "a-comp": "duloxetine"
   },
