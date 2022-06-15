@@ -12253,7 +12253,7 @@
     "name": "fawar fruit 6 sachets",
     "ar-name": "فوار فروت 6 كيس",
     "price1": "9",
-    "price": "9 L.E",
+    "price": "9 > 12 L.E",
     "barcode": "6223000010365",
     "a-comp": "citric acid+sodium bicarbonate+tartaric"
   },
@@ -15358,7 +15358,7 @@
     "name": "algason 40g cream",
     "ar-name": "الجازون  40جرام  كريم",
     "price1": "10.5",
-    "price": "10.5 L.E",
+    "price": "14 > 19 L.E",
     "barcode": "6223000011973",
     "a-comp": "camphor+menthol+diethylamine"
   },
@@ -32863,7 +32863,7 @@
     "name": "bi-alcofan 150mg   20 tab",
     "ar-name": "باى-الكوفان 150مجم 20 قرص",
     "price1": "24.75",
-    "price": "24.75 L.E",
+    "price": "24.75 > 31.50 L.E",
     "barcode": "6223000176016",
     "a-comp": "ketoprofen"
   },
@@ -42826,7 +42826,7 @@
     "name": "omega 3plus  20caps",
     "ar-name": "اوميجا 3بلس 20 كبسولة",
     "price1": "41.75",
-    "price": "55 L.E",
+    "price": "55 > 75 L.E",
     "barcode": "6221042164022",
     "a-comp": "fish oil+wheat germ oil"
   },
