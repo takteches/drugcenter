@@ -57175,5 +57175,23 @@
     "price": "n/a L.E",
     "barcode": "n/a",
     "a-comp": "n/a"
+  },
+  {
+    "id": "",
+    "name": "Rotahelex advance drops 15,30 ml",
+    "ar-name": "روتاهيلكس أدفانس نقط",
+    "price1": "n/a",
+    "price": "34 , 49.5 L.E",
+    "barcode": "n/a",
+    "a-comp": "Ivy leaf , Thyme , Liquorice,"
+  },
+  {
+    "id": "n/a",
+    "name": "n/a",
+    "ar-name": "n/a",
+    "price1": "n/a",
+    "price": "n/a L.E",
+    "barcode": "n/a",
+    "a-comp": "n/a"
   }
 ]
