@@ -25771,7 +25771,7 @@
     "name": "zyrtec 10ml oral drops",
     "ar-name": "زيرتك 10 مل نقط فم",
     "price1": "18",
-    "price": "18 L.E",
+    "price": "18 > 23 L.E",
     "barcode": "6221045008590",
     "a-comp": "cetirizine"
   },
@@ -28327,7 +28327,7 @@
     "name": "zyrtec 100ml syrup",
     "ar-name": "زيرتك 100 مل شراب",
     "price1": "20",
-    "price": "20 L.E",
+    "price": "20 > 27 L.E",
     "barcode": "6221045008606",
     "a-comp": "cetirizine"
   },
@@ -44770,7 +44770,16 @@
     "name": "controloc 20mg 14 tab",
     "ar-name": "كونترولوك 20محم 14قرص",
     "price1": "46",
-    "price": "46 L.E",
+    "price": "46 > 58 L.E",
+    "barcode": "6222006500122",
+    "a-comp": "pantoprazole"
+  },
+  {
+    "id": "143777",
+    "name": "controloc 40mg 14 tab",
+    "ar-name": "كونترولوك 40محم 14قرص",
+    "price1": "46",
+    "price": "90 > 112.5 L.E",
     "barcode": "6222006500122",
     "a-comp": "pantoprazole"
   },
