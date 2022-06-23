@@ -32104,10 +32104,10 @@
   },
   {
     "id": "243",
-    "name": "amigraine  20 tab",
-    "ar-name": "اميجران 20 اقراص",
+    "name": "amigraine adco  30 tab",
+    "ar-name": "اميجران 30 اقراص",
     "price1": "24",
-    "price": "24 L.E",
+    "price": "43.5 L.E",
     "barcode": "6221060000296",
     "a-comp": "ergotamine tartarate  1 mg+caffeine"
   },
@@ -40342,7 +40342,7 @@
     "name": "alphintern 30tab",
     "ar-name": "الفينترن 30قرص",
     "price1": "36",
-    "price": "36 L.E",
+    "price": "36 > 45 L.E",
     "barcode": "6221025030733",
     "a-comp": "chymotrypsin+trypsin"
   },
@@ -55255,7 +55255,7 @@
     "name": "plavix  75mg  28tab",
     "ar-name": "بلافكس 75 مج 28قرص",
     "price1": "205",
-    "price": "205 L.E",
+    "price": "205 > 236 L.E",
     "barcode": "3582910010722",
     "a-comp": "clopidogrel  75 mg"
   },
