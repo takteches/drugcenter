@@ -4590,6 +4590,15 @@
     "a-comp": "metronidazole  125 mg"
   },
   {
+    "id": "n/a",
+    "name": "Mozanglic 0.03/3mg 21 tablets",
+    "ar-name": "موزانجليك",
+    "price1": "n/a",
+    "price": "39.50 L.E",
+    "barcode": "n/a",
+    "a-comp": "n/a"
+  }
+  {
     "id": "4018",
     "name": "neostigmine 5 vial",
     "ar-name": "نيوستجمين  5 فيال",
@@ -5269,7 +5278,7 @@
     "name": "epigent 80mg  3 amp",
     "ar-name": "ابيجينت 80 مجم 3امبولات",
     "price1": "6",
-    "price": "6 L.E",
+    "price": "6 > 15 L.E",
     "barcode": "6221032320506",
     "a-comp": "gentamicin  80 mg"
   },
@@ -14863,7 +14872,7 @@
     "name": "enemax 120ml enema",
     "ar-name": "انماكس 120 مل حقنة شرجية",
     "price1": "10",
-    "price": "10 L.E",
+    "price": "17.75 L.E",
     "barcode": "6221025001412",
     "a-comp": "sodium phosphate"
   },
@@ -19372,7 +19381,7 @@
     "name": "antiflu  20 cap",
     "ar-name": "انتى فلو 20 كبسوله",
     "price1": "12.75",
-    "price": "12.75 L.E",
+    "price": "18 L.E",
     "barcode": "6223002976331",
     "a-comp": "caffeine+chlorpheniramie+ibuprofen"
   },
@@ -26617,7 +26626,7 @@
     "name": "cerebroforte 120 ml syrup",
     "ar-name": "سيربروفورت شراب 120 مل",
     "price1": "18",
-    "price": "18 L.E",
+    "price": "18 > 20.50 L.E",
     "barcode": "6224000730468",
     "a-comp": "piracetam"
   },
@@ -30280,7 +30289,7 @@
     "name": "baclofen 25mg 20 tab",
     "ar-name": "باكلوفين 25 جم 20 قرص",
     "price1": "21.75",
-    "price": "21.75 L.E",
+    "price": "21.75 > 27 L.E",
     "barcode": "6221035009521",
     "a-comp": "baclofen  25 mg"
   },
@@ -30645,11 +30654,20 @@
     "a-comp": "nebivolol hydrochloride"
   },
   {
+    "id": "n/a",
+    "name": "Zurovazet 10/10mg 30 Film Coated tablets",
+    "ar-name": "زيروفازيت ",
+    "price1": "n/a",
+    "price": "129 L.E",
+    "barcode": "n/a",
+    "a-comp": "n/a"
+  },
+  {
     "id": "5958",
     "name": "uvamin retard 100mg 20cap",
     "ar-name": "يوفامين ريتارد 100 مجم 20 كبسولة",
     "price1": "22",
-    "price": "22 L.E",
+    "price": "22 > 30 L.E",
     "barcode": "6221508020916",
     "a-comp": "nitrofurantion  10mg"
   },
@@ -31387,7 +31405,7 @@
     "name": "voltaren  75 mg  3  amp  3 ml",
     "ar-name": "فولتارين 75 مجم  3مل 3 امبول",
     "price1": "23",
-    "price": "23 L.E",
+    "price": "23 > 29 L.E",
     "barcode": "6223002641659",
     "a-comp": "diclofenac sodium  75 mg"
   },
@@ -34402,7 +34420,7 @@
     "name": "antodine 20mg  3 amp",
     "ar-name": "انتودين 20مجم 3امبولات",
     "price1": "27",
-    "price": "27 L.E",
+    "price": "27 > 36 L.E",
     "barcode": "6221025014986",
     "a-comp": "famotidine"
   },
@@ -37687,7 +37705,7 @@
     "name": "antodine 40 mg 20tab",
     "ar-name": "انتودين 40 مجم   20قراص",
     "price1": "31.5",
-    "price": "31.5 L.E",
+    "price": "31.5 >58.50 L.E",
     "barcode": "6221025021236",
     "a-comp": "famotidine"
   },
@@ -38329,6 +38347,15 @@
     "price": "32.4 L.E",
     "barcode": "6223003200978",
     "a-comp": "vitamin a+b1+b2+b3+b6+folic a+iron+k+sel"
+  },
+  {
+    "id": "n/a",
+    "name": "C. L. O Seas 30 capsules",
+    "ar-name": "كلوسيز كبسول",
+    "price1": "n/a",
+    "price": "62 L.E",
+    "barcode": "n/a",
+    "a-comp": "n/a"
   },
   {
     "id": "3610",
@@ -46471,7 +46498,7 @@
     "name": "cal-mag 900mg 30 tab",
     "ar-name": "كال-ماج 900 جم 30 قرص",
     "price1": "54",
-    "price": "54 L.E",
+    "price": "54 > 66 L.E",
     "barcode": "6224007751008",
     "a-comp": "calcium citrate  600 mg+citrate  300 mg"
   },
@@ -47434,7 +47461,7 @@
     "name": "calcitron  calcium  30 cap ( stress)",
     "ar-name": "كالسترون كبسول30كبسولة",
     "price1": "58.5",
-    "price": "64.5 L.E",
+    "price": "58.5 > 69 L.E",
     "barcode": "6224008097105",
     "a-comp": "calcium+boron+copper+magnesium+vitamin c"
   },
@@ -55057,7 +55084,7 @@
     "name": "clexane 0.8ml  2/syring",
     "ar-name": "CLEXANE 0.8ML  2/SYRING",
     "price1": "185",
-    "price": "185 L.E",
+    "price": "185 > 222 L.E",
     "barcode": "3582910029359",
     "a-comp": "enoxaparine sodium  80 mg"
   },
@@ -57096,6 +57123,15 @@
     "a-comp": "n/a"
   },
   {
+    "id": "111111",
+    "name": "Gynera 21 Coated tablets"
+    "ar-name": "جينيرا",
+    "price1": "n/a",
+    "price": "78 L.E",
+    "barcode": "n/a",
+    "a-comp": "n/a"
+  },
+  {
     "id": "4569",
     "name": "pill food 100 cap",
     "ar-name": "بيلفود 100 كبسولة",
@@ -57200,6 +57236,24 @@
     "ar-name": "n/a",
     "price1": "n/a",
     "price": "n/a L.E",
+    "barcode": "n/a",
+    "a-comp": "n/a"
+  },
+  {
+    "id": "n/a",
+    "name": "Exforge HCT 10/160/12.5mg 14 Film Coated tablets",
+    "ar-name": "اكسفورج  اتش  سى تى",
+    "price1": "n/a",
+    "price": " L.E",
+    "barcode": "n/a",
+    "a-comp": "n/a"
+  },
+  {
+    "id": "11111",
+    "name": "Exforge HCT 5/160/12.5mg 14 Film Coated tablets",
+    "ar-name": "اكسفورج  اتش سى تى",
+    "price1": "n/a",
+    "price": "132.5 L.E",
     "barcode": "n/a",
     "a-comp": "n/a"
   }
